@@ -67,8 +67,18 @@
     </a> 
 </p>
 
-![ImNotVirus's GitHub stats](https://github-readme-stats.vercel.app/api?username=imnotvirus&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotvirus&layout=donut&theme=transparent)](https://github.com/imnotvirus/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=imnotvirus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imnotvirus&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotvirus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=imnotvirus&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=imnotvirus&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <section> 
 <h2>Minhas linguagens do dia a dia</h2>
