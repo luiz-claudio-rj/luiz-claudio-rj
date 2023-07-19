@@ -1,9 +1,8 @@
 
 # Olá! Eu sou o Luiz Claudio 👾
 
-
-![ImNotVirus GitHub stats](https://github-readme-stats.vercel.app/api?username=imnotvirus&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotvirus&layout=compact)](https://github.com/imnotvirus/)
+![ImNotVirus's GitHub stats](https://github-readme-stats.vercel.app/api?username=imnotvirus&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotvirus&layout=donut&theme=transparent)](https://github.com/imnotvirus/github-readme-stats)
 
 <section> 
 <h2>Minhas linguagens do dia a dia</h2>
