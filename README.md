@@ -66,22 +66,9 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a> 
 </p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imnotvirus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imnotvirus&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotvirus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imnotvirus&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=imnotvirus&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <section> 
 <h2>Minhas linguagens do dia a dia</h2>
+<img alt="badge JAVA" src="https://img.shields.io/badge/Java-23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img alt="badge PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img alt="badge JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img alt="badge TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -97,6 +84,7 @@
 <img alt="badge Tauri" src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" />
 <img alt="badge Electron" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
 <img alt="badge NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img alt="badge Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <h2>Ferramentas de trabalho</h2>
 <img alt="badge VSCODE" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="badge Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
@@ -105,8 +93,8 @@
 <br />
 <br />
 <h2>Entre em contato</h2>
-<a href="https://t.me/imnotvirus"  rel="noopener noreferrer" target="_blank">
-<img alt="badge Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://www.linkedin.com/in/luizincode/"  rel="noopener noreferrer" target="_blank">
+<img alt="badge Likedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </section>
 
