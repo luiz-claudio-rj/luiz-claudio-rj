@@ -90,7 +90,7 @@
 <img alt="badge Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <br />
 <br />
-<h2>Entre em contato</h2>
+<h2>Contact</h2>
 <a href="https://www.linkedin.com/in/luizincode/"  rel="noopener noreferrer" target="_blank">
 <img alt="badge Likedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
