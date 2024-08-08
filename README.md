@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luiz Claudio</h1>
+<h1 align="center">Hi 👋, I'm Luiz</h1>
 <h3 align="center">A Web developer from Brazil</h3>
 
 - 🔭 I’m currently working on **A.R.Phoenix**
@@ -65,14 +65,14 @@
     </a> 
 </p>
 <section> 
-<h2>Minhas linguagens do dia a dia</h2>
+<h2>My everyday languages</h2>
 <img alt="badge JAVA" src="https://img.shields.io/badge/Java-23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img alt="badge PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img alt="badge JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img alt="badge TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="badge HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="badge CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<h2>Meus Frameworks favoritos</h2>
+<h2>My Favorite Frameworks</h2>
 <img alt="badge Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img alt="badge ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="badge ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -83,7 +83,7 @@
 <img alt="badge Electron" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
 <img alt="badge NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img alt="badge Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<h2>Ferramentas de trabalho</h2>
+<h2>Work tools</h2>
 <img alt="badge VSCODE" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="badge Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
 <img alt="badge Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
