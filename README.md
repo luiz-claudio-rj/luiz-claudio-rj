@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz Claudio</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A Web developer from Brazil</h3>
 
 - 🔭 I’m currently working on **A.R.Phoenix**
 
